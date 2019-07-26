@@ -1,3 +1,4 @@
+s = ABCDEFG
 # DEFの取り出し
 print(s[3:6])    
 # CEの取り出し
